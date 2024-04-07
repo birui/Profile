@@ -6,6 +6,8 @@
   
   [*Surge*](https://raw.githubusercontent.com/CyWr110/Profile/main/Surge/Surge.conf)
 
+  [*Surge开发者推荐的最小配置*](https://gist.githubusercontent.com/Zeaphyou/864aebea248ca1bb8000e0e5623b65f3/raw/c36413c715f43f22772d3c2353358e1ff936b2e6/Surge.conf)
+
   [*QuantumultX*](https://raw.githubusercontent.com/CyWr110/Profile/main/QuantumultX/QuantumultX.conf)
 
   [*Shadowrocket*](https://raw.githubusercontent.com/CyWr110/Profile/main/Shadowrocket/Shadowrocket.conf)
