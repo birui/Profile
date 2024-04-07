@@ -1,3 +1,4 @@
+https://count.getloli.com/get/@:CyWr110
 # hello 
 
 * 这是本人个人收集的一些复写以及分流规则.
