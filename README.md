@@ -1,4 +1,3 @@
-****计数代码制作链接：https://moe-counter.glitch.me/
 <img src="https://count.getloli.com/get/@:CyWr110" alt=":CyWr110" />
 # hello 
 
