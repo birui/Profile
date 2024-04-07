@@ -3,7 +3,7 @@
 # hello 
 
 * 懒人配置：
-* 
+  
 [*Surge*](https://github.com/ddgksf2013)
 
 [*QuantumultX*](https://github.com/ddgksf2013)
