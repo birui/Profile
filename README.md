@@ -2,7 +2,7 @@
 # hello 
 * 懒人配置：
 [*Surge*](https://github.com/ddgksf2013)
-[*Surge*](https://github.com/ddgksf2013)
+[*QuantumultX*](https://github.com/ddgksf2013)
 [*Surge*](https://github.com/ddgksf2013)
 
 * 这是本人个人收集的一些复写以及分流规则.
