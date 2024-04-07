@@ -1,6 +1,6 @@
 <img src="https://count.getloli.com/get/@:CyWr110" alt=":CyWr110" />
 # hello 
-#懒人配置：
+*懒人配置：
 [*Surge*](https://github.com/ddgksf2013)
 [*Surge*](https://github.com/ddgksf2013)
 [*Surge*](https://github.com/ddgksf2013)
