@@ -1,5 +1,9 @@
 <img src="https://count.getloli.com/get/@:CyWr110" alt=":CyWr110" />
 # hello 
+#懒人配置：
+[*Surge*](https://github.com/ddgksf2013)
+[*Surge*](https://github.com/ddgksf2013)
+[*Surge*](https://github.com/ddgksf2013)
 
 * 这是本人个人收集的一些复写以及分流规则.
 * 适合自己的才是最好的.
