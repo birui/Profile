@@ -4,11 +4,11 @@
 
 * 懒人配置：
   
-[*Surge*](https://github.com/ddgksf2013)
+[*Surge*](https://raw.githubusercontent.com/CyWr110/Profile/main/Surge/Surge.conf)
 
-[*QuantumultX*](https://github.com/ddgksf2013)
+[*QuantumultX*](https://raw.githubusercontent.com/CyWr110/Profile/main/QuantumultX/QuantumultX.conf)
 
-[*Shadowrocket*](https://github.com/ddgksf2013)
+[*Shadowrocket*](https://raw.githubusercontent.com/CyWr110/Profile/main/Shadowrocket/Shadowrocket.conf)
 
 * 这是本人个人收集的一些复写以及分流规则.
 * 适合自己的才是最好的.
